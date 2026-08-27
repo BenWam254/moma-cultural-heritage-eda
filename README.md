@@ -8,7 +8,7 @@ An advanced exploratory data analysis and editorial visual study examining the i
 
 Crafted with a dark-mode editorial aesthetic (`#121212` background, minimalist typographic hierarchies, and high-contrast luxury accents like metallic gold `#d0ab4d` and electric purple `#a259ff`), this project transitions away from standard data science templates toward publication-grade visual storytelling.
 
-![Dashboard Preview](assets/moma_curation_dashboard.png)
+![Dashboard Preview](./assets/moma_curation_dashboard.png)
 
 ---
 
